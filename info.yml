@@ -1,0 +1,197 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ name }}, {{ email }}, and so on.
+# You can freely edit it here, if you don't know YAML, make sure to check
+# your YAML file using http://www.yamllint.com/
+
+name: Ahun Atajanov
+nick: anergcorp
+nickname: anergcorp
+title: AnerGcorp Portfolio
+
+description: >
+  Motivated Python programmer with a robust background in full-stack development, ML, and computer vision. Several-time winner of international and national math competitions, showcasing analytical and problem-solving skills. Proven success in delivering impactful projects and recognized for excellence in math olympiads and innovation competitions. Valuable team player, fostering collaboration to achieve common goals. Passionate about creating innovative solutions that simplify lives.
+
+# You can customize this however you like
+social:
+  - media: Github
+    username: anergcorp
+    link: https://github.com/anergcorp/
+    description: Check my projects here
+
+  - media: Hackerrank
+    username: anergcorp
+    link: https://www.hackerrank.com/anergcorp
+    description: Where I improve my knowledge
+
+  - media: Stackoverflow
+    username: anergcorp
+    link: https://stackoverflow.com/users/11098241/anergcorp
+    description: Where I ask and answer programming Questions
+
+  - media: LinkedIn
+    username: anergcorp
+    link: https://www.linkedin.com/in/anerg-corp-a08627193/
+    description: Where I post my programming news and interests
+
+  - media: Medium
+    username: anergcorp
+    link: https://anergcorp.medium.com/
+    description: Where I post my programming knowledge about python and javascript
+
+contact:
+  - method: Email
+    address: ahunatajanov@gmail.com
+
+awards_and_certificates:
+  - year: 2017
+    awards:
+      - name: Volunteer Appreciation in 5th Asian Indoor Games
+        location: Ashgabat, Turkmenistan
+      - name: Turkmen State Math Olympiad (3rd Degree Diploma)
+        location: Ashgabat, Turkmenistan
+
+  - year: 2018
+    awards:
+      - name: University Rector's Award (Active Participation)
+        location: Ashgabat, Turkmenistan
+      - name: University Rector's Award (November)
+        location: Ashgabat, Turkmenistan
+      - name: University Rector's Award (April)
+        location: Ashgabat, Turkmenistan
+      - name: Certificate of Appreciation (Al-Khorezmi Intl. Math Olympiad)
+        location: Urgench City, Uzbekistan
+      - name: Certificate of Participation (International Open Internet Olympiad)
+        location: Dashoguz City, Dashoguz Province, Turkmenistan
+      - name: Turkmen State Math Olympiad (3rd Degree Diploma)
+        location: Ashgabat, Turkmenistan
+      - name: Mathematical Olympiad for University Students (Silver Medal)
+        location: Ashgabat, Turkmenistan
+      - name: Mathematical Olympiad for University Students (Bronze Medal - Team Leader)
+        location: Ashgabat, Turkmenistan
+      - name: The 1st Al-Khorezmi International Mathematical Olympiad (Bronze Medal)
+        location: Urgench City, Uzbekistan
+
+  - year: 2019
+    awards:
+      - name: University Rector's Award (November)
+        location: Ashgabat, Turkmenistan
+      - name: Turkmen State Math Olympiad (3rd Degree Diploma)
+        location: Ashgabat, Turkmenistan
+      - name: 2nd Open Mathematical Olympiad for University Students (Gold Medal)
+        location: Ashgabat, Turkmenistan
+      - name: 2nd Open Mathematical Olympiad for University Students (Bronze Medal - Team Leader)
+        location: Ashgabat, Turkmenistan
+      - name: North Countries Universities Mathematical Competition (3rd Prize Diploma)
+        location: Saint Petersburg, Russia
+
+  - year: 2020
+    awards:
+      - name: 3rd Open Mathematical Olympiad for University Students (Gold Medal)
+        location: Ashgabat, Turkmenistan
+      - name: Mechanics and Mathematical Olympiad (1st Degree Diploma)
+        location: Mary City, Turkmenistan
+
+  - year: 2022
+    awards:
+      - name: Certificate of Appreciation (Kiberbasleshik Cyber Competition)
+        location: Ashgabat, Turkmenistan
+      - name: Kiberbasleshik Innovation Projects Competition (3rd Prize Diploma - Electronic Industry)
+        location: Ashgabat, Turkmenistan
+
+  - year: 2023
+    awards:
+      - name: Certificate of Appreciation (Kiberbasleshik Cyber Competition)
+        location: Ashgabat, Turkmenistan
+      - name: Kiberbasleshik Cyber Security Events (1st Degree Diploma - Team Leader)
+        location: Ashgabat, Turkmenistan
+
+projects:
+  - name: Inventory Management App
+    description: |
+      Developed a comprehensive inventory management application with a focus on backend functionality using Django.
+      Designed and implemented a user-friendly frontend using React to enhance the overall user experience.
+      Utilized RESTful APIs for seamless communication between the frontend and backend components.
+    link: ~
+
+  - name: Disease Prediction Application
+    description: |
+      Implemented a machine learning application using TensorFlow and Keras to predict various types of diseases based on input data.
+      Demonstrated a solid understanding of machine learning concepts and application development.
+      Employed a user-friendly interface to input relevant data and receive accurate disease predictions.
+    link: ~
+
+  - name: License Plate Detection App
+    description: |
+      Developed a license plate detection application using OpenCV and NumPy, showcasing skills in computer vision.
+      Implemented efficient algorithms for license plate recognition, ensuring reliable and accurate results.
+      Utilized the OpenCV computer vision library and NumPy for image processing and analysis.
+    link: ~
+
+  - name: Telegram Bot for Price Comparison
+    description: |
+      Created a Telegram bot with the ability to parse data from tmcars.info.
+      Implemented functionalities such as price comparison and address selection based on customer criteria.
+      Integrated automated calculations to provide users with timely and relevant information.
+    link: ~
+
+work_history:
+  - position: Volunteer
+    organization: The 5th Asian Indoor and Martial Art Games
+    location: Ashgabat, Turkmenistan
+    period: 07/2017-09/2017
+    supervisor: Mirshan Gurbanov
+    role: Interpreter
+
+  - position: Volunteer
+    organization: Halkara Hyzmat economic society
+    location: Ashgabat, Turkmenistan
+    period: 06/2019-09/2019
+    supervisor: Merdan Allaberdiyev
+    role: Web Designer and Developer
+
+  - position: Volunteer
+    organization: Turkmen Afisha private enterprise
+    location: Ashgabat, Turkmenistan
+    period: 09/2020-10/2020
+    supervisor: Batyr Akmammedov
+    role: Backend Developer
+
+  - position: Volunteer
+    organization: Ukyply Topar private enterprise
+    location: Ashgabat, Turkmenistan
+    period: 11/2020-06/2021
+    supervisor: Polat Akmammedov
+    role: Python Developer
+
+  - position: Volunteer
+    organization: Takyk Ulgam private enterprise [Turkmenportal.com]
+    location: Ashgabat, Turkmenistan
+    period: 07/2023-09/2023
+    supervisor: Arslan Amaniyazov
+    role: Full Stack Web Developer
+
+history:
+  - title: Background
+    content: >
+      I come from a country where internet access is limited and expensive. Growing up in a financially constrained environment, my family couldn't afford the high costs of internet services. Despite these challenges, I delved into programming in 2016 and officially started working as a developer in 2019.
+
+  - title: Early Projects
+    content: >
+      Many of my early projects were small, offline endeavors, and unfortunately, a significant portion of them is now lost. However, these projects, though humble in scale, were invaluable in shaping my understanding of programming. They served as a testament to my resilience and determination to learn and grow.
+
+  - title: Skill Development
+    content: >
+      In the face of limited internet resources, I developed a unique skill set and honed my problem-solving abilities. My hands-on experiences, though not widely documented online, provided me with practical insights into the world of programming.
+
+  - title: Unique Learning Journey
+    content: >
+      While my online portfolio may not be extensive, I am confident in my ability to demonstrate my skills in real-time interviews. The challenges I faced in my learning journey have equipped me with adaptability, creativity, and a strong foundation in programming principles.
+
+  - title: Looking Ahead
+    content: >
+      Looking ahead, I am eager to contribute my skills to innovative projects and bring a fresh perspective to any team. I believe that my unconventional journey adds a unique flavor to my approach, and I am excited about the prospect of contributing to the success of your company.
+
+  - title: Conclusion
+    content: >
+      Thank you for considering my story, and I look forward to the opportunity to discuss how my skills align with the vision and needs of your esteemed company.
