@@ -2,7 +2,7 @@
 
 This is a personal project to showcase my portfolio
 
-# To run the code locally just use the following
+To run the code locally just use the following
 
 Just create a virtual environment
 
